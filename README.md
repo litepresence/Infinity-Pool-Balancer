@@ -1,14 +1,8 @@
 # Infinity-Pool-Balancer
+
 n-Asset Invariant Liquidity Pool
 
-
-
-# ╦╔╗╔╔═╗╦╔╗╔╦╔╦╗╦ ╦  ╔═╗╔═╗╔═╗╦  
-# ║║║║╠╣ ║║║║║ ║ ╚╦╝  ╠═╝║ ║║ ║║  
-# ╩╝╚╝╚  ╩╝╚╝╩ ╩  ╩   ╩  ╚═╝╚═╝╩═╝
-
 A non-custodial portfolio manager, liquidity provider, and price sensor.
-
 
 model by
                                                        
